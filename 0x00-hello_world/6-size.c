@@ -1,9 +1,13 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
- * code by bwave ict
+ *
+ * Description: using sizeof to print the size of various types
+ *
  * Return: always 0 (success)
- */
+*/
+
 int main(void)
 {
 	char a;
